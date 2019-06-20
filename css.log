@@ -13,16 +13,15 @@
     --主要表达了两层的语义
     --和上面一样也是容器
 div与span
-    都是盒子，但区别是span是一个文本级的标签，只能存放文字，图片，表单等
-    div则不一样，div相当于对界面的布局
-    division 分割
-    span 范围
+    --都是盒子，但区别是span是一个文本级的标签，只能存放文字，图片，表单等
+    --div则不一样，div相当于对界面的布局
+    --division 分割
+    --span 范围
 表单
-    收集用户信息，让用户填写信息，进行选择使用form标签进行包裹
-    --
-    input --输入
-        包括text，password，radio，checkbox
-            其中radio是单选按钮 checkbox是复选按钮
+    --收集用户信息，让用户填写信息，进行选择使用form标签进行包裹
+    --input --输入
+        --包括text，password，radio，checkbox
+            --其中radio是单选按钮 checkbox是复选按钮
     select 下拉标签 子标签为option
     textarea多行文本框 eg：
         <textarea cols="10" rows="10">此处的值将被设置为默认值</textarea>
